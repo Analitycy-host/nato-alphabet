@@ -1,0 +1,12 @@
+{
+  "name": "nato-alphabet",
+  "version": "0.0.0",
+  "description": "nato-alphabet",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "mrtalon63 <marcin@czop.ru>",
+  "license": "MIT"
+}
